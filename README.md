@@ -1,6 +1,6 @@
 # Telecom Churn Analysis
 
-For this analysis, the open source Cell2Cell data prepared by the Teradata center for customer relationship management at Duke University was obtained from Kaggle.
+For this analysis, the open source [Cell2Cell](https://www.kaggle.com/jpacse/datasets-for-churn-telecom) data prepared by the Teradata center for customer relationship management at Duke University was obtained from Kaggle.
 Tried to predict and analyzed Customer Loss with classification algorithms.
 
 Data consists of 51,047 samples and 58 features.
