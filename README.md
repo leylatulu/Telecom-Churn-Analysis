@@ -5,6 +5,19 @@ Tried to predict and analyzed Customer Loss with classification algorithms.
 
 Data consists of 51,047 samples and 58 features.
 
+## Libraries Used
+
+    numpy 
+    pandas 
+    scikit-learn 
+    matplotlib
+    seaborn
+    scipy
+    missingno
+    imblearn
+    collections
+    lightgbm
+
 ## Authors
 * **[Leyla Tülü](https://github.com/leylatulu)**
 
