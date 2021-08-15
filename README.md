@@ -2,7 +2,7 @@
 
 For this analysis, the open source [Cell2Cell](https://www.kaggle.com/jpacse/datasets-for-churn-telecom) data prepared by the Teradata center for customer relationship management at Duke University was obtained from Kaggle.
 Tried to predict and analyzed Customer Loss with classification algorithms.
-
+Logistic Regression, Random Forest, KNN, Gaussian Naive Bayes, XGBOOST, Gradient Boost, LightGBM algorithms was used.
 Data consists of 51,047 samples and 58 features.
 
 ## Libraries Used
