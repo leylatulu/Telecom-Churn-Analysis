@@ -5,7 +5,7 @@ Tried to predict and analyzed Customer Loss with classification algorithms.
 Logistic Regression, Random Forest, KNN, Gaussian Naive Bayes, XGBOOST, Gradient Boost, LightGBM algorithms was used.
 Data consists of 51,047 samples and 58 features.
 
-## Libraries Used
+## Used Libraries 
 
     numpy 
     pandas 
